@@ -1,0 +1,2 @@
+# Infistar
+Simple html game
